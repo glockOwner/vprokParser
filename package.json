@@ -1,0 +1,23 @@
+{
+  "name": "vprok_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "puppeteer": "^24.35.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "prettier": "3.8.0"
+  }
+}
